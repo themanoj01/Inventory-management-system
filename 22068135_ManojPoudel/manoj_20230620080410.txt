@@ -1,0 +1,48 @@
+============================================================
+	***Welcome to the tech Zone.***
+		Tech Zone
+		Kamalpokhari,Kathmandu
+
+		Phone: 01-2596378
+		Email: techzone.laptopshop@gmail.com
+
+============================================================
+
+Invoice detail: manoj_20230620080410.txt
+Date and Time of transaction: {'2023/06/20 08-04-10'}
+Distributor: manoj
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		XPS
+Brand:		Dell
+Quantity:	20
+
+PRICE DETAILS
+====================
+Price:		$1000
+Net amount:		$20000.00
+VAT Amount:		$2600.00
+Gross amount:		$22600.00
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		Aspire 5
+Brand:		Acer
+Quantity:	20
+
+PRICE DETAILS
+====================
+Price:		$500
+Net amount:		$10000.00
+VAT Amount:		$1300.00
+Gross amount:		$11300.00
+
+************************************************************
+Thank you for the business!
+Hoping to work with you again in the future.
+************************************************************

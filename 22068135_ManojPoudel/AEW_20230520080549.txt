@@ -1,0 +1,46 @@
+============================================================
+	***Welcome to the tech Zone.***
+		Tech Zone
+		Kamalpokhari,Kathmandu
+
+		Phone: 01-2596378
+		Email: techzone.laptopshop@gmail.com
+
+============================================================
+
+Invoice detail: AEW_20230520080549.txt
+Date and Time of transaction: {'2023/05/20 08-05-49'}
+Customer's Name: AEW
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		Aspire 5
+Brand:		Acer
+Quantity:	3
+
+PRICE DETAILS
+====================
+Amount:					$3000.00
+Shipping_Cost:				$100.00
+Total_Amount_to_be_paid :	$3100.00
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		Swift 7
+Brand:		Acer
+Quantity:	1
+
+PRICE DETAILS
+====================
+Amount:					$900.00
+Shipping_Cost:				$0.00
+Total_Amount_to_be_paid :	$900.00
+
+************************************************************
+Thank you for the business!
+Hoping to work with you again in the future.
+************************************************************

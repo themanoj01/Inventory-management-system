@@ -1,0 +1,6 @@
+Distributor: abc
+Laptop: hp (pavillion)
+Date and Time: 2023-04-19 22:39:10
+Net amount: $4500.00
+VAT Amount: $585.00
+Gross amount: $5085.00

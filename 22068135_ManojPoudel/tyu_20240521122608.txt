@@ -1,0 +1,32 @@
+============================================================
+	***Welcome to the tech Zone.***
+		Tech Zone
+		Kamalpokhari,Kathmandu
+
+		Phone: 01-2596378
+		Email: techzone.laptopshop@gmail.com
+
+============================================================
+
+Invoice detail: tyu_20240521122608.txt
+Date and Time of transaction: {'2024/05/21 12-26-08'}
+Customer's Name: tyu
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		Alienware
+Brand:		Alienware
+Quantity:	15
+
+PRICE DETAILS
+====================
+Amount:					$29670.00
+Shipping_Cost:				$100.00
+Total_Amount_to_be_paid :	$29770.00
+
+************************************************************
+Thank you for the business!
+Hoping to work with you again in the future.
+************************************************************

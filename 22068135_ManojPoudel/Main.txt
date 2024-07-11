@@ -1,0 +1,8 @@
+MacBook Pro 14-inch,Apple,$1999,20,M1 Max,AMD Radeon Pro 5550M,2 Years,16 GB
+Razer Blade,Razer,$2000,55,i7 7th Gen,GTX 3060,1 year,8 GB
+Alienware,Alienware,$1978,70,i5 9th Gen,GTX 3070,2 years,8 GB
+Swift 7,Acer,$900,135,i5 9th Gen,GTX 3070,1 year,8 GB
+Aspire 5,Acer,$1000,185,AMD Ryzen 5,AMD RADEON,1 year,8 GB
+Macbook Pro 16,Apple,$3500,55,i5 9th Gen,GTX 3070,2 years,16 GB
+Hp Pavilion 15,Hp,$1500,230,Ryzen 7,AMD RADEON ,1 year,16 GB
+XPS,Dell,$1976,415,i5 9th Gen,GTX 3070,2 years,16 GB

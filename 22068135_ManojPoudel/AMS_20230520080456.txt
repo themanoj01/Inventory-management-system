@@ -1,0 +1,48 @@
+============================================================
+	***Welcome to the tech Zone.***
+		Tech Zone
+		Kamalpokhari,Kathmandu
+
+		Phone: 01-2596378
+		Email: techzone.laptopshop@gmail.com
+
+============================================================
+
+Invoice detail: AMS_20230520080456.txt
+Date and Time of transaction: {'2023/05/20 08-04-56'}
+Distributor: AMS
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		XPS
+Brand:		Dell
+Quantity:	20
+
+PRICE DETAILS
+====================
+Price:		$1000
+Net amount:		$20000.00
+VAT Amount:		$2600.00
+Gross amount:		$22600.00
+
+============================================================
+
+LAPTOP INFORMATION
+====================
+Laptop:		Alienware
+Brand:		Alienware
+Quantity:	3
+
+PRICE DETAILS
+====================
+Price:		$2000
+Net amount:		$6000.00
+VAT Amount:		$780.00
+Gross amount:		$6780.00
+
+************************************************************
+Thank you for the business!
+Hoping to work with you again in the future.
+************************************************************
